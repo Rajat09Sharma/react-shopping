@@ -265,3 +265,21 @@ h1 {
     transform: translateX(0);
   }
 }
+
+@media (max-width:996px) {
+  #modal{
+    width: 90%;
+  }
+  #shop h2{
+    font-size: 5vw;
+  } 
+  #main-header button{
+    font-size: 0.9rem;
+  }
+  h1{
+    font-size: 1.1rem;
+  }
+  #main-title img {
+    width: 3.2rem;
+  }
+}
